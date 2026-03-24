@@ -47,3 +47,8 @@ sudo -u postgres psql
 \d sale_order
 \d product_template
 ```
+![alt text](imagen06.png)
+
+![alt text](imagen07.png)
+
+![alt text](imagen08.png)
