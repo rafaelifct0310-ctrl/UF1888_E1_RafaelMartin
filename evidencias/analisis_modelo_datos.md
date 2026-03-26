@@ -2,7 +2,7 @@
 #### Como funciona Odoo
 1. Tablas -> donde se guarda la información
 2. Campos -> datos dentro de las tablas
-3. Realaciones -> como se conectan entre sí
+3. Relaciones -> como se conectan entre sí
 
 Ej. Clientes, Productos, Ventas
 
