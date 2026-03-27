@@ -57,6 +57,6 @@ sudo -u postgres psql
 1 . Cliente y venta
 -   Tabla principal de clientes: res_partner
 -   Tabla de ventas: sale_order
--   Relación: sale_order.partner_id -> sale_order.id
+-   Relación: sale_order.partner_id -> res_partner.id
 ----
-- Un cliente puede tener varias ventas. Una venta puede tener varias lineas. Cada línea de venta apunta a un producto.
+`Un cliente puede tener varias ventas. Una venta puede tener varias lineas. Cada línea de venta apunta a un producto.`
